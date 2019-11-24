@@ -5,7 +5,7 @@ Exercises for Ruby Newbie's Workshop.
 ## Description
 
 * Challenge to Poker Hand Evaluation
-* Pure Ruby (not Rails) & Test Driven Development taste
+* Pure Ruby (not Rails) & Test Driven Development tasteaa
 
 ## Requirement
 
